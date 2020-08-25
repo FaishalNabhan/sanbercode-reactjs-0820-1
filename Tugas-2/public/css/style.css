@@ -1,0 +1,51 @@
+body{
+   background:url("../img/pattern.jpg")
+
+}
+
+header{
+    background-color: white;
+    display: flex;
+}
+
+nav ul{
+    list-style: none;
+    float: right;
+}
+
+nav a{
+    display: inline-block;
+    flex: 1;
+    text-align: right;
+}
+
+li{
+    float: right;
+    padding: 5px;
+    background-color:skyblue;
+    color: white;
+    border-radius: 5px;
+
+}
+section{
+    margin-right: 150px;
+    margin-left: 150px;
+    background-color: white;
+}
+
+h3{
+    text-decoration: none;
+}
+
+footer{
+    padding: 5px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+#submitbox{
+    border-radius: 5px;
+    border-color: skyblue;
+    background-color: skyblue;
+}
