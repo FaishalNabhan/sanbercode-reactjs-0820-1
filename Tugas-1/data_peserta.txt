@@ -3,4 +3,4 @@ Data Peserta Sanbercode Bootcamp ReactJS
 2. Email : 				faishalnabhan28@gmail.com
 3. Sistem Operasi yang digunakan : 	Windows 10
 4. Akun GitHub : 			FaishalNabhan
-5. Akun Telegram : 			ishal27
+5. Akun Telegram : 			isal27
